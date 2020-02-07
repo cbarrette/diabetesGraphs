@@ -1,0 +1,20 @@
+{
+  "name": "diabetesgraphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chuck",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "chartjs-plugin-annotation": "^0.5.7",
+    "express": "^4.17.1",
+    "js-datepicker": "^5.2.1",
+    "mongodb": "^3.5.2",
+    "percentile": "^1.2.2",
+    "socket.io": "^2.3.0"
+  }
+}
